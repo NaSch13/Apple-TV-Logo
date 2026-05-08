@@ -1,2 +1,2 @@
-Name,Type,URL
-Firmenlogo,image,https://raw.githubusercontent.com/NaSch13/Apple-TV-Logo/main/Logo_1C%201.png
+Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
+Firmenlogo,https://raw.githubusercontent.com/NaSch13/Apple-TV-Logo/main/Logo_1C%201.png,30,3600,,,TRUE
